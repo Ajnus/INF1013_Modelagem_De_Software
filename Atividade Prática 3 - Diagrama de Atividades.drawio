@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-17T19:44:24.095Z" agent="5.0 (Windows)" etag="bAwM2BSbn18Hj0eZ_Zdg" version="18.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-17T19:57:58.978Z" agent="5.0 (Windows)" etag="h77ujY4X3BnhSjOi__JM" version="18.0.6" type="github">
   <diagram id="qOKVFS1TaHOJEAsKqhCK" name="Page-1">
     <mxGraphModel dx="868" dy="440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9,8 +9,11 @@
         </mxCell>
         <mxCell id="y-Nx_2vNeydvTT5IyFKc-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="y-Nx_2vNeydvTT5IyFKc-1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="415" y="131" as="targetPoint" />
+            <mxPoint x="520" y="56" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="y-Nx_2vNeydvTT5IyFKc-3" value="Informar código do Aluno" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="26" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
