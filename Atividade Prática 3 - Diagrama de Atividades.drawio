@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-17T23:15:23.077Z" agent="5.0 (Windows)" etag="L6x5J7xqNuVZWGPw9_TD" version="18.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-17T23:29:09.985Z" agent="5.0 (Windows)" etag="soMFY1x6Bl4cDLJaB_q_" version="18.0.6" type="github">
   <diagram id="qOKVFS1TaHOJEAsKqhCK" name="Page-1">
-    <mxGraphModel dx="1426" dy="1472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1848" dy="1687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,7 +30,7 @@
         <mxCell id="y-Nx_2vNeydvTT5IyFKc-21" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="y-Nx_2vNeydvTT5IyFKc-23">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="231.666" y="382" as="targetPoint" />
-            <mxPoint x="166.66666666666669" y="382" as="sourcePoint" />
+            <mxPoint x="166.66666666666669" y="383" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="y-Nx_2vNeydvTT5IyFKc-23" value="&lt;div style=&quot;background-color: transparent;&quot;&gt;Pesquisar Dados do Aluno&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
@@ -44,12 +44,6 @@
         </mxCell>
         <mxCell id="y-Nx_2vNeydvTT5IyFKc-25" value="Exibe Dados do Aluno" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="407" y="601" width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="y-Nx_2vNeydvTT5IyFKc-26" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="y-Nx_2vNeydvTT5IyFKc-25">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="166.99666666666687" y="630.9999999999999" as="targetPoint" />
-            <mxPoint x="231.99599999999984" y="630.9999999999999" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="y-Nx_2vNeydvTT5IyFKc-27" value="Editar Dados do Aluno" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="6.33" y="600" width="160" height="60" as="geometry" />
@@ -141,10 +135,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="y-Nx_2vNeydvTT5IyFKc-47" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;[Acessar aluno]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="y-Nx_2vNeydvTT5IyFKc-47" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;[Acessar Aluno]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry y="170" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="y-Nx_2vNeydvTT5IyFKc-48" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;[Incluir aluno]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="y-Nx_2vNeydvTT5IyFKc-48" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;[Novo Aluno]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="105" y="100" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="y-Nx_2vNeydvTT5IyFKc-49" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;sketch=0;resizeWidth=1;resizeHeight=1;" vertex="1" parent="1">
@@ -155,6 +149,31 @@
             <mxPoint x="486.71" y="602" as="targetPoint" />
             <mxPoint x="486.71" y="537" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="y-Nx_2vNeydvTT5IyFKc-53" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;[Aluno encontrado]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="383" y="560" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="y-Nx_2vNeydvTT5IyFKc-54" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="y-Nx_2vNeydvTT5IyFKc-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="507" as="targetPoint" />
+            <mxPoint x="457" y="507" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-70" y="507" />
+              <mxPoint x="-70" y="256" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y-Nx_2vNeydvTT5IyFKc-55" value="&lt;font style=&quot;font-size: 10px; background-color: transparent;&quot;&gt;[Aluno não encontrado]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="342" y="480" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="y-Nx_2vNeydvTT5IyFKc-56" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="342" y="630" as="targetPoint" />
+            <mxPoint x="407" y="630" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y-Nx_2vNeydvTT5IyFKc-57" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;sketch=0;resizeWidth=1;resizeHeight=1;" vertex="1" parent="1">
+          <mxGeometry x="282" y="600" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
